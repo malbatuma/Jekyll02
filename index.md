@@ -7,7 +7,7 @@ title: Welcome to my blog
 ## Introducción
 
 Este es un ejemplo básico de una página escrita en **Markdown**. Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto de forma rápida y fácil.
-Arrr marinero
+
 
 ## Sección 1: Encabezados
 
